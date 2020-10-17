@@ -47,6 +47,8 @@
   },
   "dependencies": {
     "@babel/polyfill": "^7.11.5",
-    "cross-env": "^7.0.2"
+    "@material-ui/icons": "^4.9.1",
+    "cross-env": "^7.0.2",
+    "normalize.css": "^8.0.1"
   }
 }
